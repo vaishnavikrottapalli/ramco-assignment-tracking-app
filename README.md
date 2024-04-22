@@ -2,8 +2,7 @@
 1. Code editor (VS Code)
 2. MongoDB compass
 
-**How to run this project:
-**
+**How to run this project**:
 1. clone this repository to the local environment
 2. Install npm using ```npm init```
 3. Run ```npm start``` in the main directory to start the frontend.
@@ -12,7 +11,15 @@
 
 **Approach**:
 
-Built a library called ```useTracking```as a hook in the react application with just 2 pages (Home, About) as a demo.
+-> Built a library called ```useTracking```as a hook.
+-> Imported the library hook in the react application with just 2 pages (Home, About) as a demo.
+-> Click events are stored in the MongoDB database
+-> Displayed user interactions on the dashboard page along with maximum time page
+
+**Database:**
+
+![image](https://github.com/vaishnavikrottapalli/ramco-assignment-tracking-app/assets/74494413/00f2cd9c-8ef3-44c4-adde-7d5ae48fa04a)
+
 
 **Output**:
 
